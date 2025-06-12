@@ -91,7 +91,7 @@ jupyter notebook notebooks/fertilizer_classification.ipynb
 
 - matplotlib / seaborn (for visuals)
 
---
+---
 
 🤝 Contributing
 Pull requests are welcome! If you want to contribute major changes, please open an issue first to discuss what you would like to change.
